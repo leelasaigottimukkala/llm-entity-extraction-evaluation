@@ -952,5 +952,5 @@ Response speed was compared by running the same prompts multiple times on each m
 
 
 
-**Final Conclusion:**
+### Final Conclusion:
 ## Strict schema enforcement and normalization rules consistently improve entity extraction accuracy across all models, with Gemini-3 achieving the highest accuracy and DeepSeek emerging as a strong free alternative.
