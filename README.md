@@ -1,3 +1,10 @@
+## LLM Entity Extraction & Evaluation
+
+This project evaluates multiple large language models on structured
+entity extraction from real estate chat conversations using prompt
+engineering and a gold-standard JSON dataset.
+
+
 ## Evaluation Results
 
 ### GPT-5.2 — Prompt v1 (Simple Prompt)
